@@ -1,5 +1,5 @@
 body {
-  background-color: #b5a9d4;
+  background-color: #b9afd1;
   font-family: sans-serif;
 }
 
@@ -27,7 +27,7 @@ select {
   margin: 60px auto;
   background: white;
   padding: 30px;
-  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+  box-shadow: rgba(91, 91, 99, 0.4) 0px 7px 29px 0px;
   border-radius: 10px;
 }
 .city {
